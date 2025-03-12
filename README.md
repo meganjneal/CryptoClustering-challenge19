@@ -22,8 +22,13 @@ The survey was open from May 8, 2023 to May 19, 2023, and the median completion 
 
 For additional context and to compare with past surveys, please refer to these resources:
 
-Official published results: Survey Results 2023
-Previous surveys: Stack Overflow Insights
+You can find the official published results here:
+
+https://survey.stackoverflow.co/2023/
+
+Find previous survey results here:
+
+https://insights.stackoverflow.com/survey
 Licensing:
 
 This dataset ("My 2023 Developer Survey Data") is distributed under the Open Database License (ODbL) available at: ODbL License. Individual content rights within the database are licensed under the Database Contents License: DBCL License.
